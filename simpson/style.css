@@ -34,6 +34,8 @@ header img {
 .hero {
     height: 750px;
     overflow: hidden;
+    display: block;
+   
 }
 
 /* Contenu Principal */
